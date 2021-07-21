@@ -27,6 +27,7 @@
   "devDependencies": {
     "@parcel/transformer-vue": "^2.0.0-beta.2",
     "@vue/component-compiler-utils": "^3.2.2",
+    "chai": "^4.3.4",
     "parcel-bundler": "^1.12.5",
     "sass": "^1.35.2",
     "vue-template-compiler": "^2.6.14"
